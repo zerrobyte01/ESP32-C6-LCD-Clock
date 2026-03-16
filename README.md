@@ -2,6 +2,8 @@
 
 Simple WiFi clock using an **ESP32‑C6** and **1.47\" ST7789 LCD**.
 
+<img width="278" height="250" alt="image" src="https://github.com/user-attachments/assets/6ab81134-29ab-4f0d-bf4b-4cc26f9331fb" />
+
 The device connects to WiFi, synchronizes time from an **NTP server**, and shows:
 
 - Current time
