@@ -62,8 +62,9 @@ Upload to your ESP32‑C6.
 ```
 ESP32-C6-LCD-Clock
  ├── src
- │   └── ESP32_LCD_Clock.ino
+ │── ESP32_LCD_Clock.ino
  ├── images
+ ├── esp32-clock.JPG
  ├── docs
  ├── README.md
  └── LICENSE
