@@ -6,8 +6,8 @@
 #include <Adafruit_ST7789.h>
 #include <time.h>
 
-const char* ssid = "wlan1";
-const char* password = "Q3o4rmxvi";
+const char* ssid = "YOUR-WIFI";
+const char* password = "YOUR-PASSOWORD";
 
 #define TFT_CS   14
 #define TFT_DC   15
